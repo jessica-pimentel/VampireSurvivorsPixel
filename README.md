@@ -8,12 +8,14 @@ O projeto consiste em um jogo 2D onde o jogador assume o papel de um sobrevivent
 
 ## Captura do Jogo em Funcionamento
 
---<img src="https://ibb.co/xgxXRdD" alt="JogoEmFuncionamento" width="800">
+<p align="center">
+  <a href="https://ibb.co/xgxXRdD"><img src="https://i.ibb.co/dp8jzxr/print1.png" alt="print1" border="0" ></a>
+  <a href="https://ibb.co/3C3K0hb"><img src="https://i.ibb.co/YLCgtjS/print2.png" alt="print2" border="0" /></a>
+</p>
 
 ## Pré-requisitos
 
 - Unity (versão 2022.3.23f1)
-- [Curso de CriandoJogos Workshop](https://www.example.com)
 
 ## Instalação
 
