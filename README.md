@@ -1,6 +1,6 @@
 # Workshop Criando o Jogo Vampire Survivors em 2D
 
-Este repositório contém o projeto desenvolvido durante o workshop "Criando o Jogo Vampire Survivors em 2D", utilizando Unity e C#.
+Este repositório contém o projeto desenvolvido durante o workshop "Criando o Jogo Vampire Survivors em 2D", utilizando Unity, C#, C++, ShaderLab, Gap, HLSL.
 
 ## Descrição do Projeto
 
